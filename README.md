@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there. I'm Viktoriya.
+
+### Tech Stack
+- Kotlin, Android SDK, Coroutines, RxJava
+- Clean Architecture, MVVM
+- Jetpack Compose, XML, Figma
+- Room, Retrofit, Dagger/Hilt
+- Git
+
+
 
 <!--
 **tprobius/tprobius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
