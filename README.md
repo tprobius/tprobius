@@ -7,6 +7,7 @@
 - Clean Architecture, MVVM
 - Jetpack Compose, XML, Figma
 - Room, Retrofit, Dagger/Hilt
+- Cicerone, Jetpack Navigation
 - Git
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tprobius&&hide_border=false&include_all_commits=false&count_private=false" alt="tprobius" /></p>
