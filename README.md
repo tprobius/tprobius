@@ -6,7 +6,8 @@
 - Coroutines, RxJava
 - Clean Architecture, MVVM
 - Jetpack Compose, XML, Figma
-- Room, Retrofit, Dagger/Hilt
+- Room, Retrofit
+- Dagger/Hilt, Koin
 - Cicerone, Jetpack Navigation
 - Git
 
