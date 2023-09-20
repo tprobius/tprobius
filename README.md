@@ -4,7 +4,7 @@
 - Kotlin, Android SDK
 - AdapterDelegates
 - Coroutines, RxJava
-- Clean Architecture, MVVM
+- Clean Architecture, MVVM< MVVM + UDF
 - Jetpack Compose, XML, Figma
 - Room, Retrofit
 - Dagger/Hilt, Koin
