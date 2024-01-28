@@ -14,3 +14,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tprobius&&hide_border=false&include_all_commits=true&count_private=false&title_color=636363&border_color=D6D6D6&border_radius=4&bg_color=ffffff&card_width=560)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tprobius&theme=icegray&border_radius=4&card_width=560&border=D6D6D6&stroke=D6D6D6&fire=FFDD00&ring=D6D6D6&currStreakNum=636363&sideNums=636363&dates=D6D6D6&sideLabels=636363&currStreakLabel=636363)](https://git.io/streak-stats)
+
+### Contact with me
+<p align="left">
+  <a href="https://t.me/tprobius" target="Telegram"> <img align="center" src='https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg' alt='telegram' height='30'></a>
+  <a href="victoriya.zaremba@gmail.com" target="Gmail"> <img align="center" src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' alt='gmail' height='28'></a>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFAA00,100:FFDD00&section=footer&reversal=false)
