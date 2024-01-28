@@ -11,4 +11,6 @@
 - Cicerone, Jetpack Navigation
 - Git
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tprobius&&hide_border=false&include_all_commits=false&count_private=false" alt="tprobius" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tprobius&&hide_border=false&include_all_commits=true&count_private=false&title_color=636363&border_color=D6D6D6&border_radius=4&bg_color=ffffff&card_width=560)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tprobius&theme=icegray&border_radius=4&card_width=560&border=D6D6D6&stroke=D6D6D6&fire=FFDD00&ring=D6D6D6&currStreakNum=636363&sideNums=636363&dates=D6D6D6&sideLabels=636363&currStreakLabel=636363)](https://git.io/streak-stats)
