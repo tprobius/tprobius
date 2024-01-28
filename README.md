@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=300&section=header&text=Hi%20there!&desc=I%27m%20Viktoriya.&fontSize=50&color=0:FFAA00,100:FFDD00&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FFAA00,100:FFDD00&text=Hi%20there!&section=header&reversal=false&desc=I%27m%20Viktoriya.&fontAlignY=32&fontSize=48&fontColor=ffffff&descSize=28&descAlignY=52&descAlign=54&fontAlign=48)
+
+color=0:FFAA00,100:FFDD00
 
 ### Tech Stack
 - Kotlin, Android SDK
