@@ -16,7 +16,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tprobius&theme=icegray&border_radius=4&card_width=856&border=D6D6D6&stroke=D6D6D6&fire=FFDD00&ring=D6D6D6&currStreakNum=636363&sideNums=636363&dates=D6D6D6&sideLabels=636363&currStreakLabel=636363)](https://git.io/streak-stats)
 
 <p align="left"> 
-   <b>Contact with me </b>  <a href="https://t.me/tprobius" target="Telegram"> <img align="center" src='https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg' alt='telegram' height='30'></a>
+   <b>Get in touch with me   </b>
+   <a href="https://t.me/tprobius" target="Telegram"> <img align="center" src='https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg' alt='telegram' height='24'></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFAA00,100:FFDD00&section=footer&reversal=false)
