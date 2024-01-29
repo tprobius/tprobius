@@ -11,9 +11,9 @@
 - Cicerone, Jetpack Navigation
 - Git
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tprobius&&hide_border=false&include_all_commits=true&count_private=false&title_color=636363&border_color=D6D6D6&border_radius=4&bg_color=ffffff&card_width=560)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tprobius&&hide_border=false&include_all_commits=true&count_private=false&title_color=636363&border_color=D6D6D6&border_radius=4&bg_color=ffffff&card_width=856)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tprobius&theme=icegray&border_radius=4&card_width=560&border=D6D6D6&stroke=D6D6D6&fire=FFDD00&ring=D6D6D6&currStreakNum=636363&sideNums=636363&dates=D6D6D6&sideLabels=636363&currStreakLabel=636363)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tprobius&theme=icegray&border_radius=4&card_width=856&border=D6D6D6&stroke=D6D6D6&fire=FFDD00&ring=D6D6D6&currStreakNum=636363&sideNums=636363&dates=D6D6D6&sideLabels=636363&currStreakLabel=636363)](https://git.io/streak-stats)
 
 <p align="left"> 
    <b>Contact with me </b>  <a href="https://t.me/tprobius" target="Telegram"> <img align="center" src='https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg' alt='telegram' height='30'></a>
