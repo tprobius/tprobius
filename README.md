@@ -2,13 +2,13 @@
 
 ### Tech Stack
 - Kotlin, Android SDK
-- AdapterDelegates
-- Coroutines, RxJava
-- Clean Architecture, MVVM, MVVM + UDF
-- Jetpack Compose, XML, Figma
+- Clean Architecture, MVVM + UDF
+- Jetpack Compose, XML
+- Coroutines + Flow
 - Room, Retrofit
 - Dagger/Hilt, Koin
 - Cicerone, Jetpack Navigation
+- AdapterDelegates
 - Git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tprobius&&hide_border=false&include_all_commits=true&count_private=true&title_color=636363&border_color=D6D6D6&border_radius=4&bg_color=ffffff&card_width=856)](https://github.com/anuraghazra/github-readme-stats)
